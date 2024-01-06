@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: '/TIDLGMU'
+baseurl: "/TIDLGMU"
 url: "https://nattonge.github.io/"
 permalink: pretty
 markdown: kramdown
