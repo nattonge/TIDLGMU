@@ -35,7 +35,7 @@ hero:
       outline: true
       style: light
 services:
-  enabled: true
+  enabled: false
   heading: Our Services
   sub_heading: ''
   limit: 6
@@ -77,9 +77,9 @@ partners:
   sort: weight
 projects:
   enabled: true
-  heading: Our Projects
+  heading: Current Projects
   sub_heading: ''
-  limit: 2
+  limit: 4
   columns: 2
   sort: weight
   view_more_button_text: View All Projects
@@ -89,8 +89,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Get Started Today
-  sub_heading: Save time and money using this premium Jekyll theme.
+  heading: Join us!
+  sub_heading: Find out about opportunities to join the lab
   features:
     enabled: false
     list:
