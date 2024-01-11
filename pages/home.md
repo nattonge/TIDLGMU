@@ -1,9 +1,7 @@
 ---
-title: Jekyll Advance
+title: Home
 layout: home
 permalink: "/"
-description: Advance is a multi-purpose premium Jekyll theme. Modern design, clean
-  code and highly configurable.
 header_transparent: true
 hero:
   enabled: true
@@ -20,16 +18,16 @@ hero:
   buttons:
     enabled: false
     list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
+    - text: News
+      url: ''
+      external: 'False'
       fa_icon: false
       size: large
       outline: false
       style: light
     - text: Documentation
-      url: https://www.zerostatic.io/docs/jekyll-advance/v2.0/
-      external: true
+      url: ''
+      external: false
       fa_icon: false
       size: large
       outline: true
@@ -46,10 +44,15 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: We've helped hundreds of people grow their business online.
-  sub_heading: Our software empowers customers and retailers to work from anywhere
-    in the world, on the go, or at home.
+  image: ''
+  heading: ''
+  sub_heading: The Trust and Interpersonal Disclosure Lab at George Mason University
+    is dedicated to studying trust, interpersonal communication, and disclosure in
+    various contexts. Our team of researchers seeks to understand the dynamics of
+    trust and disclosure in relationships, organizations, and online environments.
+    Through our research, we aim to contribute to the knowledge and understanding
+    of human interactions and facilitate the development of healthier and more trusting
+    relationships.
   features:
     enabled: false
     list:
@@ -64,7 +67,7 @@ intro:
   buttons:
     enabled: true
     list:
-    - text: About Us
+    - text: More About Us
       url: "/about"
       external: false
       fa_icon: ''
@@ -72,7 +75,7 @@ intro:
       outline: false
       style: primary
 partners:
-  enabled: true
+  enabled: false
   limit: 5
   sort: weight
 projects:
@@ -99,18 +102,18 @@ outro:
   buttons:
     enabled: true
     list:
-    - text: Contact Us
+    - text: More Information
       url: "/contact"
       external: false
-      size: large
+      size: medium
 posts:
   enabled: true
-  heading: Latest Posts
-  sub_heading: ''
+  heading: Latest Happenings
+  sub_heading: See what we've been up to
   limit: 3
   columns: 3
   sort: weight
-  view_more_button_text: View All Posts
+  view_more_button_text: View Past Happenings
   view_more_button_link: "/blog"
   prevent_click: false
 ---

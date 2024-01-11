@@ -172,11 +172,11 @@ comments:
 
 newsletter:
   mailchimp:
-    form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
+    form_action_url: 
     form_title: "Let's keep in touch"
 
 contact_form: 
-  use_netlify_form: true
+  use_netlify_form: false
   use_formspree_form: false
   formspree_endpoint: https://formspree.io/f/moqyklqv
   netlify_form_name: "contact"
@@ -186,17 +186,17 @@ menu:
   show_social_media_in_mobile_menu: true
 
 footer:
-  enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Advance"
-  footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  enable_footer: false # show/hide the entire footer
+  footer_title: ""
+  footer_description: ""
   enable_social_media_icons: true
   enable_contact_details: true
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: true
-  footer_primary_menu_title: "Product"
-  footer_secondary_menu_title: "Company"
-  footer_tertiary_menu_title: "Other"
+  footer_primary_menu_title: "Outside links"
+  footer_secondary_menu_title: ""
+  footer_tertiary_menu_title: ""
 
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
