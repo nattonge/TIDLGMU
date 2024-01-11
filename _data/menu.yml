@@ -18,7 +18,7 @@ main:
     weight: 4
     child:
       - name: Mental Health Help-Seeking Studies
-        url: /projects/book-design/
+        url: /projects/mhhs/
       - name: AI/ML in EHR
         url: /projects/special-edition/
       - name: Therapy Experiences via Reddit
