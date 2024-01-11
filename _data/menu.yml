@@ -9,10 +9,12 @@ main:
     url: /team/
     weight: 3
     child:
-      - name: Gracie
-        url: /services/web-development/
-      - name: Jesús
-        url: ''
+      - name: Natasha Tonge
+        url: /team/natasha-tonge/
+      - name: Gracie Kelly
+        url: /team/gracie-kelly/
+      - name: Jesús Hernández
+        url: 'team/jesus-hernandez-ortiz'
   - name: Projects
     url: /projects/
     weight: 4
@@ -20,9 +22,9 @@ main:
       - name: Mental Health Help-Seeking Studies
         url: /projects/mhhs/
       - name: AI/ML in EHR
-        url: /projects/special-edition/
+        url: /projects/aimlehr/
       - name: Therapy Experiences via Reddit
-        url: /projects/master-system/
+        url: /projects/reddit/
   - name: News
     url: /blog/
     weight: 5

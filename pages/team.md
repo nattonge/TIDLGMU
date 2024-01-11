@@ -1,14 +1,14 @@
 ---
 layout: list
-title: "Team"
-description: "Meet our dedicated team."
+title: "Lab Members"
+description: "Meet our lab!"
 permalink: "/team/"
 date: 2018-02-12T15:37:57+07:00
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Our Team"
+  heading: "Our Lab"
   sub_heading: ""
   text_color: "#FFFFFF"
   background_color: ""
