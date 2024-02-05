@@ -6,11 +6,11 @@ description: A selection of our work and projects.
 permalink: "/projects/"
 header_transparent: true
 hero:
-  enabled: true
+  enabled: false
   heading: Projects
   sub_heading: Our current and past work
-  text_color: "#e6e6ff"
-  background_color: true
+  text_color: "#FFFFFF"
+  background_color: false
   background_gradient: true
   background_image: ''
   background_image_blend_mode: overlay
@@ -56,7 +56,7 @@ intro:
       outline: false
       style: primary
 outro:
-  enabled: false
+  enabled: true
   align: left
   image: false
   heading: Ready to get started?
