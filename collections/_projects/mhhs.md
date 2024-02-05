@@ -4,8 +4,8 @@ description: "Survey of undergraduates on preferences for seeking help."
 date: 2023-08-20
 weight: 2
 header_transparent: true
-thumbnail: ""
-image: ""
+thumbnail: "/assets/images/gen/projects/mhhs.jpg"
+image: "/assets/images/gen/projects/mhhs.jpg"
 client: ""
 
 hero:
