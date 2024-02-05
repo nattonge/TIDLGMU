@@ -1,7 +1,7 @@
 ---
-title: "Reddit"
-description: "Re-inventing the wheel my grasp on reality right now is tenuous how much bandwidth do you have."
-date: 2018-12-20
+title: "Mental Health Help-Seeking Study"
+description: "Survey of undergraduates on preferences for seeking help."
+date: 2023-08-20
 weight: 2
 header_transparent: true
 thumbnail: ""
@@ -10,7 +10,7 @@ client: ""
 
 hero:
   enabled: true
-  heading: "NEW FILE"
+  heading: "Mental Health Help-Seeking"
   sub_heading: "Template."
   text_color: "#FFFFFF"
   background_color: ""
