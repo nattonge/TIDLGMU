@@ -8,7 +8,7 @@ categories:
 - LabOuting
 description: Lab's end of the year social event for 2024!
 thumbnail: "/assets/images/gen/blog/Nationals2024-2.jpg"
-image: "/assets/images/gen/blog/Nationals2024-1.jpg"
+image: "/TIDLGMU/assets/images/gen/blog/Nationals2024-1.jpg"
 weight: 1
 ---
 
