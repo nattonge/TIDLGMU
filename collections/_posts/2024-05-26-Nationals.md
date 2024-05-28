@@ -3,9 +3,9 @@ title: TIDL @ Nationals Park!
 layout: post
 date: '2024-05-26 13:30:00'
 authors:
-- ["Natasha Tonge"]
+- Natasha Tonge
 categories:
-- ["LabOuting"]
+- LabOuting
 description: Lab's end of the year social event for 2024!
 thumbnail: "/assets/images/gen/blog/Nationals2024-2.jpg"
 image: "/assets/images/gen/blog/Nationals2024-1.jpg"
